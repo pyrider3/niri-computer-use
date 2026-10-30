@@ -1,0 +1,13 @@
+# 当前部署选择允许启动所有程序；仍使用租约、焦点核对和停止键。
+unrestricted = true
+
+[[preset]]
+name = "wechat"
+argv = ["/usr/bin/gtk-launch", "com.tencent.wechat"]
+app_id = "wechat"
+
+# 后台查看器依赖单独安装 wechat-use。启用时，将路径改为自己的绝对路径。
+# [[preset]]
+# name = "background-wechat-viewer"
+# argv = ["/home/YOUR_USER/.local/bin/background-wechat-viewer"]
+# app_id = "Vncviewer"

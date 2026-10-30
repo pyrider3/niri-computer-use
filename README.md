@@ -1,5 +1,7 @@
 # niri-computer-use
 
+本 fork 保存当前部署基线及脱敏的 Codex / Pi 配置，见 [中文部署说明](local-setup/README.zh-CN.md)。源码与许可证来源见下方上游说明。
+
 [![CI](https://github.com/ayagmar/niri-computer-use/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ayagmar/niri-computer-use/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/ayagmar/niri-computer-use)](https://github.com/ayagmar/niri-computer-use/releases/latest) [![crates.io](https://img.shields.io/crates/v/niri-computer-use)](https://crates.io/crates/niri-computer-use) [![Crate size](https://img.shields.io/crates/size/niri-computer-use)](https://crates.io/crates/niri-computer-use) [![MSRV](https://img.shields.io/crates/msrv/niri-computer-use)](https://crates.io/crates/niri-computer-use) [![niri 26.04](https://img.shields.io/badge/niri-26.04-f2a33a)](https://github.com/niri-wm/niri) [![Docs](https://img.shields.io/badge/docs-site-informational)](https://ayagmar.github.io/niri-computer-use/) [![License: MIT](https://img.shields.io/crates/l/niri-computer-use)](https://github.com/ayagmar/niri-computer-use/blob/main/LICENSE)
 
 Let Claude Code, Codex, Pi or any MCP agent see and drive your [niri](https://github.com/niri-wm/niri) desktop: windows, screenshots, buttons by name, keys and clicks, with a stop key you hold.

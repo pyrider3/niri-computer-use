@@ -1,0 +1,4 @@
+# 合并到 Codex 配置，不覆盖其他配置。command 请替换成实际绝对路径。
+[mcp_servers.niri-computer-use]
+command = "/home/YOUR_USER/.local/bin/niri-computer-use"
+args = ["serve"]

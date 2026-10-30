@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "niri-computer-use": {
+      "command": "/home/YOUR_USER/.local/bin/niri-computer-use",
+      "args": [
+        "serve"
+      ],
+      "exposure": "direct",
+      "description": "操控 Niri 主桌面；先读 niri-computer-use 技能，状态检查后持有桌面租约执行操作。"
+    }
+  }
+}
